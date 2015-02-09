@@ -49,6 +49,8 @@ F(n,b) = 2^2 - 1 = 3
 so 3 divides 3. Hence answer is 1.
 """
 
+
+
 # SOLUTION
 
 
@@ -113,12 +115,12 @@ class SherlockWatsonProblem(object):
             if self.is_prime(n):
                 self.result += 1
 ##        print("Result=%s when a=%s f(a)=%s b=%s f(a)=%s smaller=%s" % (self.result, self.a, fn_a, self.b, fn_b, small))
-        print("%s %s" % (self.a, self.b))
+        #print("%s %s" % (self.a, self.b))
         print(self.result)
     
 if __name__ == "__main__":
 
-    print("2")
+    #print("2")
     t_1 = SherlockWatsonProblem(1, 1)
     t_2 = SherlockWatsonProblem(2, 2)
 ##    t_3 = SherlockWatsonProblem(3, 3)

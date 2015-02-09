@@ -1,5 +1,13 @@
+#!/usr/bin/env python
+
+# Hackathon Mindsweeper4
+# AUTHOR  : avimehenwal
+# DATE    : 06-Jan-2014
+
+""" PROBLEM
 Helping Mario
 Max. Marks: 15
+
 Mario loved his girlfriend Lucy very much. Michael was jealous of Mario's love. So, he kidnapped Lucy. Mario started searching for her and found a note which was written by Michael. In that note, Michael asked Mario to solve a problem if he wanted his girlfriend back. The note had the following problem. Given some numbers , Mario had to find the number of subsequences such that the greatest common divisor of all numbers in subsequence lies between "L" and "R"(both inclusive).
 
 Mario asked your help to solve the problem.
@@ -45,3 +53,5 @@ Memory Limit: 256 MB
 Source Limit: 1024 KB
 Marking Scheme: Marks are awarded if any testcase passes.
 Allowed languages: C, C++, Java, Python
+"""
+
