@@ -25,7 +25,7 @@ Working as SDET engineer in McAfee Labs web QA Team. Team deals with urls reputa
 
 Technologies/Tools used: Python3, MongoDB, MS-SQL, Linux, Django, unittest, Bootstrap, Jenkins, HTML, Selenium, shell, Javascript, CSS, Hadoop HDFS, VersionOne, Bugzilla, Testlink, CodeCollaborator, svn
 
-### Ameya Infocom – Senior Python Developer           Sep 2013 – till date
+### Ameya Infocom – Senior Python Developer           Sep 2013 – Feb 2014
 Working as core developer for web based product AddaBol. Responsible for developing/testing and writing new web services for company’s new internet based product addabol. 
 
 **Roles and responsibilities**
