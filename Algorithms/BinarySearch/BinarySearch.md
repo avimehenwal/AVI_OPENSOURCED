@@ -1,5 +1,6 @@
 ### Binary Search
 
+Based on Divide and Conqurer Technique of problem solving.
 #### PseudoCode
 1. Let min = 0 and max = n-1.
 2. Compute guess as the average of max and min, rounded down (so that it is an integer).
