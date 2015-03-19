@@ -13,7 +13,7 @@ Some general cases solved by algorithms:
 
 Useful Links:
 
-[damn-cool-algorithms](http://blog.notdot.net/tag/damn-cool-algorithms)
-[By Brad Miller and David Ranum, Luther College](http://interactivepython.org/runestone/static/pythonds/index.html)
-[Python API of algorithms](https://github.com/nryoung/algorithms)
-[University of California, Irvine](http://legacy.python.org/workshops/2002-02/papers/15/index.htm)
+* [damn-cool-algorithms](http://blog.notdot.net/tag/damn-cool-algorithms)
+* [By Brad Miller and David Ranum, Luther College](http://interactivepython.org/runestone/static/pythonds/index.html)
+* [Python API of algorithms](https://github.com/nryoung/algorithms)
+* [University of California, Irvine](http://legacy.python.org/workshops/2002-02/papers/15/index.htm)
