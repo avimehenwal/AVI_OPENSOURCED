@@ -60,7 +60,7 @@ Technical Skills
 ----------------------
 All of these vary in degree and freshness, but I’ve used all of them in a project at some point.
 
-            |
+|           |                                                      |
 ------------|------------------------------------------------------
 Languages   | Python, javascript(+HTML+CSS). Also some Shell scripts
 Platforms   | Linux, Windows, Heroku, Amazon AWS
@@ -72,8 +72,7 @@ Tools       | Jira, Bitbucket, git, svn, VersionOne, Bugzilla, Testlink, JMeter,
 Interests   | Data Visualizations (D3 & AngularJS), Hadoop BigData, Cloud based PaaS, Go Lang
 
 
-*In general*
-If I don’t already know it, I can get up to speed pretty quickly.
+*In general*  If I don’t already know it, I can get up to speed pretty quickly.
 
 
 Achievements:
