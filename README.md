@@ -87,9 +87,9 @@ Achievements:
 Education
 -------------------
 
-B.Tech | Computer Science, GBTU | 70.04% | Aug 2007 – June 2011
-HSC | DAV Public School, Meerut | 67.60%
-SSC | PMS Public School, Moradabad | 81.80%
+| B.Tech | Computer Science, GBTU       | 70.04% | Aug 2007 – June 2011 |
+| HSC    | DAV Public School, Meerut    | 67.60% |                      |
+| SSC    | PMS Public School, Moradabad | 81.80% |                      |
 
 
 Miscellaneous:
