@@ -110,11 +110,11 @@ Passionate about learning computer hacking / security and network programming. L
 Online Presence
 --------------------------
 
-[Github](https://github.com/avimehenwal/)
-[Personal Page](https://avimehenwal.github.io/)
-[Twitter Handle](https://twitter.com/avimehenwal)
-[Facebook](https://www.facebook.com/avimehanwal)
-[LinkedIn](http://in.linkedin.com/pub/avi-mehenwal/33/30a/428)
+* [Github](https://github.com/avimehenwal/)
+* [Personal Page](https://avimehenwal.github.io/)
+* [Twitter Handle](https://twitter.com/avimehenwal)
+* [Facebook](https://www.facebook.com/avimehanwal)
+* [LinkedIn](http://in.linkedin.com/pub/avi-mehenwal/33/30a/428)
 
 
 [Little Help here](http://www.crypti.cc/cv/)
