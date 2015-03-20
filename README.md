@@ -1,15 +1,13 @@
-Hello Folks ...
-
-This is my ~~Resume~~
-
-
-Objective
-------------
-Seeking the position of Python developer (dev/testing/SDET) in a reputable organization that permits me to evolve and enhance my existing programming skills in big-data and data-visualization streams.
+# Avi Kumar Mehenwal
+1293,7thCross,14thMain,BTM Stage-2,Bangalore-560076
+https://avimehenwal.github.io/
+avi.mehanwal@gmail.com
++91 9740712021
 
 
 Employment Summary
 --------------------------
+
 ### Intel Security – Software Development Engineer in Test          Mar 2014 – till date
 Working as SDET engineer in McAfee Labs web QA Team. Team deals with urls reputation and verifies all systems adding, updating and accessing the url and its information are working flawlessly and in sync with each other without starving the other systems.
 
@@ -54,7 +52,9 @@ Links: https://github.com/avimehenwal
 
 Technical Skills
 ----------------------
-Languages:	 Python3, Shell, Jinja2, JSON,  
+All of these vary in degree and freshness, but I’ve used all of them in a project at some point.
+
+Languages:	 Python,JavaScript (+HTML+CSS). Also some: shell scripts 
 Platforms:	 Linux, Windows, Heroku, Amazon EC2
 Database:	 mongoDB, MS sql
 Frameworks: 	 Django, Pyramid, CherryPy, Google Map API, Graph API, boto
@@ -62,6 +62,10 @@ Frontend:	 Bootstrap, AngularJS, Tkinter, JavaScript, html, css
 Protocols:	 HTTP, TCP/UDP sockets, snmp 1/v2c/3, icmp, smtp, telnet , ftp
 Tools:		Jira, Bitbucket, git, svn, VersionOne, Bugzilla, Testlink, JMeter, JenkinsCI
 Interests	Data Visualizations (D3 & AngularJS), Hadoop BIgData, Cloud based PaaS, Go Lang
+
+In general
+
+If I don’t already know it, I can get up to speed pretty quickly.
 
 Have got concepts in OOP, network programming and OS and can develop purpose based applications in Python (web/commandline/desktop). Familiarity with UI designs and driving social networking services (facebook) for data manipulation. Self learning Go/DataVisualizations/PaaS on Cloud and BigData concepts
 
