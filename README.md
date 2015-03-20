@@ -1,10 +1,10 @@
 Avi Kumar Mehenwal
 ==================================================
 
-1293,7thCross,14thMain,BTM Stage-2,Bangalore-560076
-https://avimehenwal.github.io/
-avi.mehanwal@gmail.com
-+91 9740712021
+1293,7thCross,14thMain,BTM Stage-2,Bangalore-560076<br>
+https://avimehenwal.github.io/<br>
+avi.mehanwal@gmail.com<br>
++91 9740712021<br>
 
 
 Employment Summary
