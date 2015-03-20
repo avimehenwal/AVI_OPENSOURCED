@@ -13,7 +13,7 @@ ___
 Employment Summary
 --------------------------
 
-#### Intel Security – Software Development Engineer in Test ( Mar 2014 – till date )
+#### Intel Security – Software Development Engineer in Test (Mar 2014 – till date)
 Working as SDET Engineer in McAfee Labs web QA Team. Team deals with urls reputation and verifies all systems adding, updating and accessing the url and its information are working flawlessly and in sync with each other without starving the other systems.
 
 **Roles and responsibilities:**
