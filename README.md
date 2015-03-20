@@ -1,4 +1,6 @@
-# Avi Kumar Mehenwal
+Avi Kumar Mehenwal
+==================================================
+
 1293,7thCross,14thMain,BTM Stage-2,Bangalore-560076
 https://avimehenwal.github.io/
 avi.mehanwal@gmail.com
@@ -8,7 +10,7 @@ avi.mehanwal@gmail.com
 Employment Summary
 --------------------------
 
-### Intel Security – Software Development Engineer in Test          Mar 2014 – till date
+### Intel Security – Software Development Engineer in Test ( Mar 2014 – till date )
 Working as SDET engineer in McAfee Labs web QA Team. Team deals with urls reputation and verifies all systems adding, updating and accessing the url and its information are working flawlessly and in sync with each other without starving the other systems.
 
 **Roles and responsibilities:**
