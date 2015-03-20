@@ -43,7 +43,7 @@ Working as core developer for web based product AddaBol. Responsible for develop
 Links: http://www.addabol.com/
 
 
-### HCL Technologies Ltd. – Senior Analyst (Jun 2011 – Sep 2013)
+#### HCL Technologies Ltd. – Senior Analyst (Jun 2011 – Sep 2013)
 Worked within Global IT BTIS (Business transformational IT Services) business unit. Its an IT enabling function in HCL and provides IT services to project OMC/ODC ranging from network/security model to servers, hardware, VMs, applications and cloud based set-ups.
 
 **Roles and responsibilities**
@@ -107,8 +107,14 @@ Interests
 Passionate about learning computer hacking / security and network programming. Loves photography and guitar. Technical interests include working with Cloud based Paas, Data Visualizations, big data and GoLang.
 
 
-References
-------------------------
-References can be provided on request.
+Online Presence
+--------------------------
+
+[Github](https://github.com/avimehenwal/)
+[Personal Page](https://avimehenwal.github.io/)
+[Twitter Handle](https://twitter.com/avimehenwal)
+[Facebook](https://www.facebook.com/avimehanwal)
+[LinkedIn](http://in.linkedin.com/pub/avi-mehenwal/33/30a/428)
+
 
 [Little Help here](http://www.crypti.cc/cv/)
