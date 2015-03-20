@@ -60,14 +60,16 @@ Technical Skills
 ----------------------
 All of these vary in degree and freshness, but I’ve used all of them in a project at some point.
 
-Languages | Python, javascript(+HTML+CSS). Also some Shell scripts
-Platforms | Linux, Windows, Heroku, Amazon AWS
-Databases | MongoDB, MS-SQL
-Frameworks | Django, Pyramid, CherryPi, Google Map API, Graph API, Boto
-FrontEnds | Bootstrap, AngularJS, Tkinter
-Protocols | HTTP, TCP/UDP sockets, snmp 1/v2c/3, icmp, smtp, telnet , ftp
-Tools | Jira, Bitbucket, git, svn, VersionOne, Bugzilla, Testlink, JMeter, JenkinsCI
-Interests | Data Visualizations (D3 & AngularJS), Hadoop BigData, Cloud based PaaS, Go Lang
+            |
+------------|------------------------------------------------------
+Languages   | Python, javascript(+HTML+CSS). Also some Shell scripts
+Platforms   | Linux, Windows, Heroku, Amazon AWS
+Databases   | MongoDB, MS-SQL
+Frameworks  | Django, Pyramid, CherryPi, Google Map API, Graph API, Boto
+FrontEnds   | Bootstrap, AngularJS, Tkinter
+Protocols   | HTTP, TCP/UDP sockets, snmp 1/v2c/3, icmp, smtp, telnet , ftp
+Tools       | Jira, Bitbucket, git, svn, VersionOne, Bugzilla, Testlink, JMeter, JenkinsCI
+Interests   | Data Visualizations (D3 & AngularJS), Hadoop BigData, Cloud based PaaS, Go Lang
 
 
 *In general*
@@ -87,7 +89,7 @@ Achievements:
 Education
 -------------------
 
-|       |                               |       |                       |
+|        |                              |        |                      |
 ---------|------------------------------|--------|----------------------|
 | B.Tech | Computer Science, GBTU       | 70.04% | Aug 2007 – June 2011 |
 | HSC    | DAV Public School, Meerut    | 67.60% |                      |
