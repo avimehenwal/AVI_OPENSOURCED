@@ -13,7 +13,6 @@ $USER		| The user’s (short) login name.
 $#		| Number of arguments passed to the shell. This variable is described further in Handling Flags and Arguments.
 $@		| Complete list of arguments passed to the shell, separated by spaces.. This variable is described further in Handling Flags and Arguments.
 $*		| Complete list of arguments passed to the shell, separated by the first character of the IFS (input field separators) variable. This variable is 
-
 $-		| A list of all shell flags currently enabled.
 $PWD	| The current working directory. Equivalent to executing the pwd command.
 
