@@ -1,4 +1,4 @@
-Process information |
+Special Variables | Explaination 
 --------------------|---------
 $$ 				| Process ID of shell
 $PPID			| Process ID of shell’s parent process.
