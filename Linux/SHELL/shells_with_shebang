@@ -1,0 +1,11 @@
+#!/bin/sh
+echo "Current shell PID $$"
+echo "`ps -p $$`"
+echo "Parent shell PID $PPID"
+echo "`ps $PPID`"
+echo $SHELL
+echo $0
+
+# Other SHELLS
+#!/bin/bash
+#!/bin/zsh
