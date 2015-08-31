@@ -1,4 +1,9 @@
 #!/usr/bin/perl -w
+#
+# AUTHOR   = avimehenwal
+# DATE     = Mon Aug 31 16:09:41 IST 2015
+# PURPOSE  = Demo perl string concationation
+
 
 use strict;
 
