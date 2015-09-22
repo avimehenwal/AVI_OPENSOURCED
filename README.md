@@ -116,7 +116,7 @@ Online Presence
 * [Twitter Handle](https://twitter.com/avimehenwal)
 * [Facebook](https://www.facebook.com/avimehanwal)
 * [Google+](https://plus.google.com/115956966505193057246/posts)
-* [LinkedIn](http://in.linkedin.com/pub/avi-mehenwal/33/30a/428)
+* [LinkedIn](https://in.linkedin.com/in/avimehenwal)
 
 
 [Little Help here](http://www.crypti.cc/cv/)
