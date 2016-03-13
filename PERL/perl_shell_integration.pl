@@ -1,24 +1,25 @@
 #!/usr/bin/perl
 # 
-# AUTHOR        = avimehenwal
-# DATE          = Wed Sep  2 12:24:52 IST 2015
-# PURPOSE       = Perl shell integration
- 
+# AUTHOR      avimehenwal
+# DATE        Wed Sep  2 12:24:52 IST 2015
+# PURPOSE     Perl shell integration
+#
+#
 
-# backticks
+# 1. Backticks
 my $out, $str;
 $out = `ls -la`;
 print $out;
 
-# qx operator
+# 2. qx operator
 $str = qx{ls -al};
 print $str;
 
-# fetching error
+# 3. fetching error
 $out = qx(ls -l 2>&1);
 print $out;
 
-# writing to file
+# 4. Writing to file
 open(my $fh, ">", "output.txt")
   or die "cannot open > output.txt : $!";
   print $fh $out;
