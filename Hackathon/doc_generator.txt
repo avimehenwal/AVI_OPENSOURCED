@@ -1,0 +1,90 @@
+.
+Docs Generator
+Max. Marks 20
+Given a source code file as input, you need to generate documentation by parsing the docblocks. All docblocks are written immediately preceding the entity it documents. The docblocks follow special notations, as described below:
+
+Class
+
+/** @class The class description
+ *  @author The author of the class
+ */
+class Sample
+
+Resulting into Parsed Doc: {
+  class: 
+  desc:
+  super: []
+  author:
+  properties: []
+  methods: []
+  subclasses: []
+}
+Properties
+
+// @var type and object this represents
+int sample
+
+Resulting into Parsed Doc: {
+  var:
+  type:
+  desc:
+}
+Methods
+
+/** @method The description of the method
+ *  @param One for each argument, describing the argument
+ */
+void get_val();
+
+Resulting into Parsed Doc: {
+  method: 
+  return:
+  virtual: (boolean)
+  desc:
+  params: []
+}
+Please note:
+
+A source file will contain only one outermost class.
+Classes can have subclasses, in which case the structure of the subclass will follow the same structure as above, but will be nested into the list of subclasses for the parent class.
+Methods can be virtual or not, which is mentioned as a boolean value in the parsed docs for the method. This is required.
+The docblock which occurs anywhere other than just before the declaration of an entity, must not be considered.
+The order of variables, methods, params and subclasses should be in the order in which they appear in the code.
+Source code will follow standard indentation and spacing.
+Docblocks may contain invalid @key markers, which we expect to be ignored.
+INPUT
+
+Source Code
+
+OUTPUT
+
+JSON string representing the hierarchy of information collected for documentation by parsing the docblocks. The keys in the object are expected in order specified above in parsed docs. No newline at the end of string.
+
+Sample Input(Plaintext Link)
+ /** @class Represents user info
+ *  @author Foo Bar <foo@bar.com>
+ */ 
+class Person: public User {
+public:
+  // @var a string for name of the person
+  string name;
+
+  // @var an integer for the id of the person
+  int id;
+
+  /** @method accessor for name property
+   */
+  string get_name();
+
+  /** @method modifier for name property
+   *  @param the new string to be set as name
+   */
+  string set_name(string &new_name);
+};
+Sample Output(Plaintext Link)
+ {"class":"Person","desc":"Represents user info","super":["User"],"author":"Foo Bar <foo@bar.com>","properties":[{"var":"name","type":"string","desc":"a string for name of the person"},{"var":"id","type":"int","desc":"an integer for the id of the person"}],"methods":[{"method":"get_name","return":"string","virtual":false,"desc":"accessor for name property","params":[]},{"method":"set_name","return":"string","virtual":false,"desc":"modifier for name property","params":[{"var":"new_name","type":"string&","desc":"the new string to be set as name"}]}],"subclasses":[]}
+Time Limit: 5 sec(s) for each input file.
+Memory Limit: 256 MB
+Source Limit: 1024 KB
+Marking Scheme: Marks are awarded if any testcase passes.
+Allowed languages: C, CPP, CLOJURE, CSHARP, GO, HASKELL, JAVA, JAVASCRIPT, JAVASCRIPT_NODE, LISP, OBJECTIVEC, PASCAL, PERL, PHP, PYTHON, RUBY, R, RUST, SCALA
