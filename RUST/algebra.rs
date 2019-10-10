@@ -1,6 +1,12 @@
-fn main() {
-    let x: f32 = 7.0;
-    let y: f32 = 3.0;
+use std::env;
 
-    println!("{} / {} = {}", x, y, x/y);
+
+fn main() {
+    let args: Vec<String> = env::args().collect();
+
+    let x = &args[1];
+    let y = &args[2];
+
+    //println!("{} / {} = {}", x, y, x/y);
+    println!("Args = {} {}", x, y);
 }
