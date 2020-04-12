@@ -30,7 +30,7 @@ Working as SDET Engineer in McAfee Labs web QA Team. Team deals with urls reputa
 
 
 #### Ameya Infocom – Senior Python Developer (Sep 2013 – Feb 2014)
-Working as core developer for web based product AddaBol. Responsible for developing/testing and writing new web services for company’s new internet based product addabol. 
+Working as core developer for web based product AddaBol. Responsible for developing/testing and writing new web services for company’s new internet based product addabol.
 
 **Roles and responsibilities**
 
@@ -81,7 +81,7 @@ Achievements:
 1. Developed url dashboard for intel security false positive reports.
 2. Automated over 100+ test cases for agents and legacy systems at McAfee.
 3. Have written Facebook login and data extraction services both for web and mobile clients.
-4. Have written Image upload (S3) and manipulation (PIL) service in python for addabol project. 
+4. Have written Image upload (S3) and manipulation (PIL) service in python for addabol project.
 5. Can handle and manage amazon S3 service directly from python server side programming using boto.
 6. Telnet/Pinging tool for continuously recording and alert via mail checks connectivity failures for cary users.
 
@@ -108,11 +108,11 @@ Interests
 Passionate about learning computer hacking / security and network programming. Loves photography and guitar. Technical interests include working with Cloud based Paas, Data Visualizations, big data and GoLang.
 
 
-Online Presence
+Contact Me :
 --------------------------
 
 * [Github](https://github.com/avimehenwal/)
-* [Personal Page](https://avimehenwal.github.io/)
+* [Personal Page](https://avimehenwal.in)
 * [Twitter Handle](https://twitter.com/avimehenwal)
 * [Facebook](https://www.facebook.com/avimehanwal)
 * [Google+](https://plus.google.com/115956966505193057246/posts)
@@ -120,3 +120,9 @@ Online Presence
 
 
 [Little Help here](http://www.crypti.cc/cv/)
+
+
+
+<a href="https://www.buymeacoffee.com/F1j07cV" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+ Spread Love :hearts: and not :no_entry_sign: hatred   [![Twitter Follow](https://img.shields.io/twitter/follow/avimehenwal.svg?style=social)](https://twitter.com/avimehenwal)
