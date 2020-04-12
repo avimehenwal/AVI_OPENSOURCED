@@ -13,6 +13,7 @@
 * variable bindings `let`
 * compared to JS which runs every mili seconds a gfarbage collector
   * to remove all memory spaces which are **not referenced**
+* Cross compiler to release for windows target from linux host
 
 ## Language Syntax
 
@@ -26,6 +27,9 @@
 * Deep copy to get the ownership of Array item
 * How to create Objects in rust?
 * Difference between `str` and `string` memory type
+* Is rust as fast as C++?
+* Add list to the structure
+* HOw are Arrays different from VectorsS
 
 ## Commandline apps in Rust
 
@@ -44,5 +48,21 @@
 rustup show
 cargo init
 cargo new <AppName>
-
+cargo build --release
 ```
+
+![Demo](demo.png)
+
+
+#### @ Reach Me @
+
+* [Github](https://github.com/avimehenwal/)
+* [Personal Page](https://avimehenwal.in)
+* [Twitter Handle](https://twitter.com/avimehenwal)
+* [Facebook](https://www.facebook.com/avimehanwal)
+* [Google+](https://plus.google.com/115956966505193057246/posts)
+* [LinkedIn](https://in.linkedin.com/in/avimehenwal)
+
+<a href="https://www.buymeacoffee.com/F1j07cV" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+ Spread Love :hearts: and not :no_entry_sign: hatred   [![Twitter Follow](https://img.shields.io/twitter/follow/avimehenwal.svg?style=social)](https://twitter.com/avimehenwal)
