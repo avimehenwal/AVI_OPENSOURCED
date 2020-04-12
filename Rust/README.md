@@ -24,6 +24,8 @@
 * Turbo Fish syntax `Vec<String>`
 * Debug printing mode `println!("{:#?}", arguments)`
 * Deep copy to get the ownership of Array item
+* How to create Objects in rust?
+* Difference between `str` and `string` memory type
 
 ## Commandline apps in Rust
 
